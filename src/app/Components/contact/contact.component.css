@@ -1,0 +1,67 @@
+.fields {
+    width: 100%;
+    height: auto;
+    clear: both;
+    float: left;
+    margin-left: 70px;
+}
+
+input {
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background-color: #fff;
+    border-radius: 0;
+    font-size: 13px;
+    min-width: auto;
+    letter-spacing: 1.4px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Poppins";
+    line-height: 1.6;
+    padding: 10px !important;
+    height: 44px;
+    vertical-align: middle;
+    border: 1px solid #eee;
+    font-weight: 400 !important;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+
+}
+
+textarea {
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, .2);
+    height: 120px;
+    resize: none;
+    margin-bottom: 20px;
+    background-color: #fff;
+    width: 500px;
+    padding: 10px !important;
+
+
+}
+
+ul li {
+    margin-bottom: 20px;
+    width: 500px;
+}
+
+.arlo_tm_button a {
+    background-color: #e65f78;
+}
+
+.arlo_tm_button a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #e65f78;
+    display: inline-block;
+    padding: 12px 45px;
+    font-family: "Poppins";
+    position: relative;
+    overflow: hidden;
+}
